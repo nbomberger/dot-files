@@ -1,6 +1,5 @@
-# dotfiles
-Configuration Files
-===================
+Configuration Files (dotfiles)
+==============================
 
 This repository contains custom configuration and dot files for any system owned and operated by Nathaniel Bomberger.
 
